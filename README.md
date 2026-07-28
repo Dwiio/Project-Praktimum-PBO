@@ -7,17 +7,6 @@
 
 ---
 
-## 📑 Daftar Isi
-- [Fitur Utama](#-fitur-utama)
-- [Arsitektur & Penerapan Konsep PBO](#-arsitektur--penerapan-konsep-pbo)
-- [Struktur Repositori](#-struktur-repositori--file)
-- [Skema Database](#%EF%B8%8F-skema-database-rental_motor-3sql)
-- [Cara Instalasi & Konfigurasi](#%EF%B8%8F-cara-instalasi--konfigurasi)
-- [Contoh Tampilan & Output Aplikasi](#-contoh-tampilan--output-aplikasi)
-- [Kontributor & Informasi Praktikum](#-kontributor--informasi-praktikum)
-
----
-
 ## ✨ Fitur Utama
 
 - **Management Data Motor (CRUD)**:
